@@ -1,0 +1,10 @@
+<!ELEMENT kursprogramm (kurs+)>
+<!ELEMENT kurs (bezeichnung, referententeam)>
+<!ATTLIST kurs id ID #REQUIRED kurstyp CDATA #IMPLIED>
+<!ELEMENT bezeichnung (#PCDATA)>
+<!ELEMENT referententeam (referent+)>
+<!ELEMENT referent (name, kontakt?)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT kontakt (fon | email* | (fon, email*))>
+<!ELEMENT fon (#PCDATA)>
+<!ELEMENT email (#PCDATA)>

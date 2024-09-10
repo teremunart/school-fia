@@ -1,0 +1,19 @@
+{
+  "adressaenderung" : {
+    "auftragsid": 12345,
+    "knr": 20452,
+    "auftragsdatum": "",
+    "adresseAlt": {
+      "name": "Hans Winter",
+      "strasse": "Muehlgasse",
+      "ort": "Bergheim",
+      "plz": 12345
+    },
+    "adresseNeu": {
+      "name": "Hans Winter",
+      "strasse": "Rosenweg 55",
+      "ort": "Talheim",
+      "plz": 54321
+    }
+  }
+}

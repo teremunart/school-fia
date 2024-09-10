@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE kursprogramm SYSTEM "kursprogramm.dtd">
+	<kursprogramm>
+		<kurs id="uidesberg" kurstyp="Wochenkurs">
+			<bezeichnung>User Interface Desing für Anfänger</bezeichnung>
+			<referententeam>
+				<referent>
+                    <name>Natalia Huber</name>
+                    <kontakt>
+                        <fon>+497596632247</fon>
+                    </kontakt>
+				</referent>
+				<referent>
+					<name>Marc Wiegand</name>
+					<kontakt>
+                        <fon>+499721050364</fon>
+                        <email>marc@wiegand.com</email>
+                        <email>m.wiegand@gmx.de</email>
+					</kontakt>
+                </referent>
+			</referententeam>
+		</kurs>
+		<kurs id="xmladv">
+			<bezeichnung>XML für Fortgeschrittene</bezeichnung>
+			<referententeam>
+				<referent>
+					<name>Michael Schuh</name>
+					<kontakt>
+						<fon>+49151234567885</fon>
+					</kontakt>
+				</referent>
+			</referententeam>
+		</kurs>
+	</kursprogramm>

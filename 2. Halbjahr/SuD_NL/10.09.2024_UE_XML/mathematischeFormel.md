@@ -1,0 +1,1 @@
+# Eine mathematische Formel besteht aus Variablen (z.B. x, y, z), Ganzzahlen (z.B. 1, 2, 3) und den vier Grundrechenarten Addition (+), Subtraktion (-), Multiplikation (·) und Division (/). Die Operationen folgen der Reihenfolge: Klammern, Multiplikation/Division, dann Addition/Subtraktion.
