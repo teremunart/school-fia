@@ -1,12 +1,12 @@
 # Nutzergruppen und Benutzer hinzufügen 
 
-Verwende den Befehl **groupadd** um eine Gruppe anzulegen: 
+Verwende den Befehl **groupadd,** um eine Gruppe anzulegen: 
 ```shell
 sudo groupadd GRUPPENNAME 
 ```
  
 
-und anschließend den Befehl **adduser** und  passwd um einen Benutzer anzulegen: 
+und anschließend den Befehl **adduser** und passwd um einen Benutzer anzulegen: 
 ```shell
 sudo adduser NUTZERNAME 
 sudo passwd NUTZERNAME 
