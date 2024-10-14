@@ -4,7 +4,7 @@
 2. [Über MobaXterm](#über-mobaxterm)
 
 ---
-## [Über PuTTY](#über-putty)
+## Über PuTTY
 Lade PuTTY von der offiziellen Website herunter und installiere es: [PuTTY Download](https://www.putty.org/#download).
 
 Verwende den folgenden Befehl, um die IP-Adresse deines Raspberry Pi zu ermitteln:
@@ -23,7 +23,7 @@ Wenn du alles korrekt eingegeben hast, bist du jetzt per SSH mit deinem Raspberr
 
 ---
 
-## [Über MobaXterm](#über-mobaxterm)
+## Über MobaXterm
 Lade MobaXterm von der offiziellen Website herunter und installiere es: [MobaXterm Download](https://mobaxterm.mobatek.net/download-home-edition.html).
 
 Verwende den folgenden Befehl, um die IP-Adresse deines Raspberry Pi zu ermitteln:
