@@ -1,11 +1,4 @@
-<div style="position: relative; text-align: center; color: white; overflow: hidden; height: 300px;">
-    <div style="width: 100%; height: 50%; overflow: hidden;">
-        <img src="https://pbs.twimg.com/media/GYgPHLNXoAA2u0a?format=jpg" alt="Alt text" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-    </div>
-    <div style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%);">
-        <h1>WARUM PROJEKTMANAGEMENT?</h1>
-    </div>
-</div>
+# Warum Projektmanagement?
 
 ---
 ### Inwiefern hilft Projektmanagement, um Projekte (erfolgreich) durchzuführen?

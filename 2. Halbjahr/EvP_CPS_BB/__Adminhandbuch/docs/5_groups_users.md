@@ -1,5 +1,6 @@
 # Nutzergruppen und Benutzer hinzufügen 
 
+---
 
 ## Inhaltsverzeichnis
 - [Gruppen hinzufügen](#gruppen-hinzufügen)

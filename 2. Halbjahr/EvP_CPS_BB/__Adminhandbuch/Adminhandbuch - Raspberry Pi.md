@@ -5,5 +5,6 @@
 - [3. Einrichten einer Statischen IP Adresse](docs/3_static_ip.md)
 - [4. Installieren von Neofetch](docs/4_neofetch_installation.md)
 - [5. Anlegen und Anzeigen von Gruppen und Benutzern](docs/5_groups_users.md)
+- [6. Rechteverwaltung](docs/6_permission_management.md)
 
 > Von Benjamin, Tom und Rogerio
