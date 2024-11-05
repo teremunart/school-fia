@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="school.sqlite" uuid="a77b5e03-2f57-48fa-8266-587d1bffc1b7">
+    <data-source source="LOCAL" name="Ausleihen_Fahrzeuge_1_Normalform" uuid="4b37b751-ac4d-40c0-aa77-f7f0f83cf480">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:school.sqlite</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\igus\Desktop\GSO\Softwaretechnologie und Datenmanagement (SuD)\school\2. Halbjahr\SuD_NL\2. Datenbank Systeme\2024.10.29_Datenbank Systeme\LS83. Anhänge\Ausleihen_Fahrzeuge_1_Normalform.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.45.1/org/xerial/sqlite-jdbc/3.45.1.0/sqlite-jdbc-3.45.1.0.jar</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.45.1/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar</url>
+        </library>
+      </libraries>
     </data-source>
   </component>
 </project>
