@@ -13,5 +13,3 @@
 #### Schlussfolgerung:
 - Kein Algorithmus ist immer perfekt: Evaluierung hängt vom Anwendungsfall ab.
 - Performancebewertung ist ein iterativer Prozess.
-
-ODk2NTA5ODg5ODE0MzU1OTY5.Gf_uUy
