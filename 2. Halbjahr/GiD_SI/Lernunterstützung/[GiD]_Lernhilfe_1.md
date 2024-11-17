@@ -25,17 +25,15 @@
 > | Gemeinsame Sprache für IT-Prozesse | Mögliche Einschränkung der Kreativität              |
 ---
 > #### einen Werkvertrag von einem Dienstvertrag abgrenzen und das Service-Level-Agreement einer dieser beiden Vertragsarten begründet zuordnen.
-> Hier ist eine kürzere Version der Abgrenzung zwischen Werkvertrag und Dienstvertrag sowie der Zuordnung des Service-Level-Agreements (SLA):
-> <br>**Werkvertrag vs. Dienstvertrag**
-> - Werkvertrag:
+> - **Werkvertrag**:
 >  - Ziel: Herstellung eines bestimmten Ergebnisses (z. B. Softwareentwicklung).
 >  - Vergütung: Erfolgsabhängig.
-> - Dienstvertrag:
+> - **Dienstvertrag**:
 >  - Ziel: Erbringung von Dienstleistungen (z. B. IT-Support).
 >  - Vergütung: Für geleistete Arbeit, unabhängig vom Erfolg.
 > 
 > **Zuordnung des Service-Level-Agreements (SLA)**
-> <br>Ein SLA gehört in der Regel zum Dienstvertrag, da es:
+> <br>Ein SLA gehört zum Dienstvertrag, da es:
 > - Dienstleistungsqualität definiert (z. B. Verfügbarkeit, Reaktionszeiten).
 > - Kontinuierliche Leistungen regelt, nicht ein spezifisches Endprodukt.
 > - Prozessfokus hat, anstatt ein konkretes Ergebnis zu garantieren.
