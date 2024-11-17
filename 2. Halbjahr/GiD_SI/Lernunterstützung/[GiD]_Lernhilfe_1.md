@@ -1,7 +1,7 @@
 # GiD – Lernhilfe 1
 
 
-### Service-Level-Agreement, Ticketsystem, Support-Level
+# Service-Level-Agreement, Ticketsystem, Support-Level
 
 ---
 > #### erläutern, was unter IT-Servicemanagement (ITSM) zu verstehen ist.
@@ -160,10 +160,16 @@
 > beinhaltet ein Change-Request meist größere Auswirkungen und erfordert eine Planung und Genehmigung.
 ---
 > #### die Kennzahlen zur Berechnung von Prozesskosten für Service-Anfragen benennen und mithilfe der vorgegebenen Formeln berechnen.
----
 > #### die Kennzahlen leistungsmengeninduzierte Kosten (lmi) und leistungsmengenneutrale Kosten (lmn) anhand selbstgewählter Beispiele voneinander abgrenzen.
----
 > #### eine Prozesskostenrechnung um weitere Bestandteile ergänzen und hierfür die Berechnung durchführen/anpassen.
+> ![img.png](..%2F1.%20Ticket%20Systeme%2F01.10.2024_Prozesskostenrechnung%2Fimg.png)
+> - Prozessmenge: ??? 
+> - Zeit in Min.: Aus dem Diagramm ablesen
+> - Zeitbedarf: 14000 · 4 = 56000
+> - Personen im Jahr: 56000 / 110400 = 0,507
+> - Prozesskosten (LMI): Personenbedarf * Jahresarbeitslohn
+> - Prozesskosten (LMN): 100 * 12000 / Summe der LMI
+> - Prozesskosten (LMI/LMN): idk man
 
 ---
 
@@ -171,3 +177,29 @@
 
 ---
 > #### das Prinzip der „Eisenhower-Matrix“ erläutern und auf Beispiele (mindestens die Bearbeitung von Service-Anfragen) übertragen/anwenden
+> ![img_1.png](img_1.png)
+
+---
+
+---
+
+# Projektmanagement
+
+--- 
+> #### anhand verschiedener Merkmale erläutern, was ein Projekt ist (und wodurch es sich von einem Geschäftsprozess unterscheidet).
+> Ein Projekt ist ein **zeitlich begrenztes Vorhaben** mit einem klaren Ziel, das durch spezifische Ressourcen und eine einmalige Organisation gekennzeichnet ist.
+---
+> #### erläutern, was unter Projektmanagement zu verstehen ist, indem ich die wichtigsten Aufgaben benenne (siehe DIN 69901).
+> Projektmanagement umfasst laut DIN 69901 Führungsaufgaben, -organisation, -techniken und -mitteln für die Abwicklung eines Projekts. <br>(Definition, Planung, Realisierung, Abschluss) 
+---
+> #### das Ausgangsproblem eines Kunden (oder ein internes Problem) sowie seine Ursachen analysieren (z.B. mithilfe einer Mindmap o.ä.) und Handlungsbedarf ableiten.
+> Problemidentifikation → Ursachenanalyse → Priorisierung → Auswirkungen → Lösungsansätze
+---
+> #### die einzelnen Phasen des 4-Phasen-Modells (Definitions-, Planungs-, Realisierungs- u. Abschlussphase) benennen, den Zweck, die Aufgaben, zu erstellende Dokumente sowie das Ende/Ziel jeder Phase erläutern.
+> Eigentlich ohne Erklärung verständlich
+---
+> #### Stakeholder des Projektes benennen und deren Interessen in Beziehung setzen.
+> Stakeholder sind Projekt-Beteiligte mit unterschiedlichen Interessen: Vom Kunden bis zur Führung, jeder beeinflusst das Projekt und wird vom Projektergebnis beeinflusst.
+> - Interne Stakeholder: Projektteam, Management
+> - Externe Stakeholder: Kunden, Lieferanten, Behörden
+> - Schlüssel-Stakeholder: Entscheidend für Projekterfolg
