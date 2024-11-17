@@ -163,13 +163,17 @@
 > #### die Kennzahlen leistungsmengeninduzierte Kosten (lmi) und leistungsmengenneutrale Kosten (lmn) anhand selbstgewählter Beispiele voneinander abgrenzen.
 > #### eine Prozesskostenrechnung um weitere Bestandteile ergänzen und hierfür die Berechnung durchführen/anpassen.
 > ![img.png](..%2F1.%20Ticket%20Systeme%2F01.10.2024_Prozesskostenrechnung%2Fimg.png)
-> - Prozessmenge: ??? 
-> - Zeit in Min.: Aus dem Diagramm ablesen
-> - Zeitbedarf: 14000 · 4 = 56000
-> - Personen im Jahr: 56000 / 110400 = 0,507
-> - Prozesskosten (LMI): Personenbedarf * Jahresarbeitslohn
-> - Prozesskosten (LMN): 100 * 12000 / Summe der LMI
-> - Prozesskosten (LMI/LMN): idk man
+>
+> | Kennzahl                | Formel                                                              | Berechnung                 | Ergebnis |
+> |-------------------------|---------------------------------------------------------------------|----------------------------|----------|
+> | Prozessmenge            | -                                                                   | Vorgegeben                 | 14000    |
+> | Zeit pro Vorgang (Min.) | -                                                                   | Aus Diagramm               | 4        |
+> | Zeitbedarf (Min.)       | Prozessmenge * Zeit pro Vorgang                                     | 14000 * 4                  | 56000    |
+> | Personenbedarf          | Zeitbedarf / Jahresarbeitszeit                                      | 56000 / 110400             | 0,507    |
+> | Prozesskosten (LMI)     | Personenbedarf * Jahresarbeitslohn                                  | 0,507 * 60000              | 30420 €  |
+> | Prozesskosten (LMN)     | (Gemeinkostenzuschlag * Jahresarbeitslohn) / Summe aller LMI-Kosten | (100% * 60000) / Summe LMI | ...      |
+> | Gesamtprozesskosten     | LMI + LMN                                                           | 30420 + LMN                | ...      |
+> | Prozesskostensatz       | Gesamtprozesskosten / Prozessmenge                                  | (30420 + LMN) / 14000      | ...      |
 
 ---
 
