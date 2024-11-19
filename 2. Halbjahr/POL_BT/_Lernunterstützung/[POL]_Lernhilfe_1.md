@@ -55,7 +55,16 @@ Eine verhaltensbedingte Kündigung ist zulässig, wenn ein Arbeitnehmer gegen se
 - Einzelfallprüfung  
 ---
 ### die Bedeutung, Funktion und Form einer Abmahnung erläutern. 
-- ??? Ich verstehe die Frage nicht
+- Abmahnungen sind notwendig für ordentliche Kündigungen (keine bestimmte Anzahl notwendig) und weisen formell auf Fehler des Arbeitnehmers hin.
+- Im Gegensatz zu einer Kündigung gibt es keine gesetzliche Vorgabe, dass eine Abmahnung zwingend schriftlich erfolgen muss. Aus Beweisgründen wird jedoch die schriftliche Form empfohlen. Eine ordnungsgemäße Abmahnung sollte folgende Punkte enthalten:
+    Beschreibung des Fehlverhaltens
+    Das Fehlverhalten muss genau beschrieben werden, einschließlich Datum, Uhrzeit und konkretem Vorfall, um Missverständnisse zu vermeiden (z. B. „Sie sind am 12. November 2024 ohne Krankmeldung nicht zur Arbeit erschienen“).
+    Verweis auf die Verletzung von Pflichten
+    Es sollte klar dargelegt werden, welche arbeitsvertraglichen oder betrieblichen Pflichten verletzt wurden.
+    Aufforderung zur Verhaltensänderung
+    Der Arbeitnehmer sollte aufgefordert werden, das beanstandete Verhalten künftig zu unterlassen.
+    Hinweis auf Konsequenzen
+    Es muss darauf hingewiesen werden, dass bei Wiederholung mit arbeitsrechtlichen Maßnahmen, einschließlich einer Kündigung, zu rechnen ist.
 ---
 ### Voraussetzungen nennen, unter denen personenbedingte Kündigungen erfolgen können. 
 - Eignungsmangel oder dauerhafte Krankheit
