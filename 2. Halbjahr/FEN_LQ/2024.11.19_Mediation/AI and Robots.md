@@ -42,14 +42,24 @@ ARMs can move around their enviroment that happens via 3D-cameras and sensors. T
 their task varies. They do have the ability to ... (No Time) 
 
 #### Articulated robots (robot arms)
-Abc
+Tasks can be executed quicker and mor precisely with artificial intelligence. To classify a scene
+or objects the robots uses 2D/3D cameras.
+
 #### Cobots
-Abc
+With AI Cobots can react to gestures and the human language. In addition, they can learn from it 
+as well, without training.
 
 ---
 ## Advantages of an AI integration
 #### Increased productivity and efficiency
-Abc
+Nowadays, businesses face more demands than ever before. 
+Customers expect faster deliveries. Stakeholders desire higher productivity and efficiency. 
+Employees want to contribute without becoming exhausted or injured. 
+AI-powered robots help address all these needs. In retail environments, they handle repetitive 
+or time-consuming tasks like checking inventory and alerting staff about out-of-stock or 
+misplaced items. This speeds up product deliveries, enhances productivity, 
+and enables human employees to focus on higher-value, less difficult tasks, such as finding 
+opportunities to optimize processes, resolving AMR issues, or developing new ideas.
 #### Higher quality and precision
 Abc
 #### Improved work safety
