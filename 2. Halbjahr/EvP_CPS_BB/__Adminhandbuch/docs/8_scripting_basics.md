@@ -4,7 +4,7 @@
 
 ## Inhaltsverzeichnis
 - [Kurzerklärung](#kurzerklärung)
-- [Shebang #!](#shebang)
+- [Shebang #!](#shebang-)
 - [Variablen](#variablen)
 - [Kontrollstrukturen](#kontrollstrukturen)
   - [Bedingte Anweisungen](#bedingte-anweisungen)
