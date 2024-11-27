@@ -108,11 +108,11 @@ Um die numerische Berechtigung zu berechnen, addierst du die Werte für die gew�
 > - Andere: `r--` → 4 + 0 + 0 = 4 (Binär: `100`)
 > - **Ergebnis**: `744` bedeutet, dass der Besitzer alle Rechte hat, die Gruppe und andere Benutzer nur Lesezugriff haben.
 
-> ### Beispiel 2: 654
+> ### Beispiel 2: 561
 > - Besitzer: `r-x` → 4 + 0 + 1 = 5 (Binär: `101`)
 > - Gruppe: `rw-` → 4 + 2 + 0 = 6 (Binär: `110`)
 > - Andere: `--x` → 0 + 0 + 1 = 1 (Binär: `001`)
-> - **Ergebnis**: `654` bedeutet, dass der Besitzer Lese- und Ausführungsrechte hat, die Gruppe Lese- und Schreibrechte hat, und andere Benutzer nur Ausführungsrechte haben.
+> - **Ergebnis**: `561` bedeutet, dass der Besitzer Lese- und Ausführungsrechte hat, die Gruppe Lese- und Schreibrechte hat, und andere Benutzer nur Ausführungsrechte haben.
 
 
 ### Binäre Darstellung der Berechtigungen
