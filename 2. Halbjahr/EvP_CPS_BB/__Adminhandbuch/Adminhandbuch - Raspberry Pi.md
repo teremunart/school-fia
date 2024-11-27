@@ -7,5 +7,6 @@
 - [5. Anlegen und Anzeigen von Gruppen und Benutzern](docs/5_groups_users.md)
 - [6. Rechteverwaltung](docs/6_permission_management.md)
 - [7. Scripting - Importieren von Dateien mit SCP](docs/7_transfering_files_with_scp)
+- [8. Scripting - Grundlegende Informationen](docs/8_scripting_basics.md)
 
 > Von Benjamin, Tom und Rogerio
