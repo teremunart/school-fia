@@ -55,13 +55,13 @@ nach Sprache.
 
 ```bash
 # Bash:
-NAME="Teremun"
+NAME="Rogerio"
 echo "Hallo, $NAME!"
 ```
 
 ```python
 # Python:
-name = "Teremun"
+name = "Rogerio"
 print(f"Hallo, {name}!")
 ```
 
@@ -86,8 +86,8 @@ fi
 
 ```python
 # Python: if-Bedingung
-if name == "Teremun":
-    print("Willkommen, Teremun!")
+if name == "Benjamin":
+    print("Willkommen, Benjamin!")
 else:
     print("Unbekannter Benutzer")
 ```
