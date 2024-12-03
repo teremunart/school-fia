@@ -9,4 +9,7 @@
 - [7. Scripting - Importieren von Dateien mit SCP](docs/7_transfering_files_with_scp)
 - [8. Scripting - Grundlegende Informationen](docs/8_scripting_basics.md)
 
+Testfallkatalog:
+- [A08_Testfallkatalog_3.x Berechtigung](files/A08_Testfallkatalog_3.x_Berechtigungen_V1.4.pptx)
+
 > Von Benjamin, Tom und Rogerio
