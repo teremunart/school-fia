@@ -1,0 +1,6 @@
+- Rebsorte(RebsorteId, Name)
+- Wein(WeinId, Beschreibung, Name, Preis, Jahrgang **Weingut**)
+- Art(ArtId, Bezeichung)
+- Typ(TypId, Bezeichung)
+- Weingut(WeingutId, Name)
+- Region(RegionId, Name, Land, **WeingutId**)
