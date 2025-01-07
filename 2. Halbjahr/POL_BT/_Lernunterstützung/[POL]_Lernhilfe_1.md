@@ -3,9 +3,7 @@
 ## Kündigung von Mitarbeiter/innen
 
 ### die Formvorschriften einer wirksamen Kündigung nennen. 
-- Schriftform erforderlich.
-- Angabe der Kündigungsgründe.
-- Zustellung der Kündigungserklärung.
+- Schriftlich erforderlich, Angabe der Kündigungsgründe und Zustellung der Kündigungserklärung
 
 ---
 ### zwischen einer außerordentlichen und einer ordentlichen Kündigung unterscheiden. 
@@ -73,7 +71,7 @@ Abmahnungen sind notwendig für ordentliche Kündigungen und weisen formell auf 
 - Schwangere und Mütter im Mutterschutz
 - Eltern in Elternzeit
 - Betriebsratsmitglieder
-- Auszubildende  
+- Azubis
 ---
 ### bestimmen, mit welcher Kündigungsfrist einem Arbeitnehmer/einer Arbeitnehmerin innerhalb und außerhalb der Probezeiten (AN/Azubis) gekündigt werden kann. 
 #### **1. Kündigungsfrist für Arbeitnehmer**
@@ -87,14 +85,3 @@ Abmahnungen sind notwendig für ordentliche Kündigungen und weisen formell auf 
 #### **3. Kündigungsfrist für Auszubildende**
 - **Während der Probezeit**: 2 Wochen.
 - **Nach der Probezeit**: 4 Wochen.
----
-### bestimmen, mit welcher Kündigungsfrist ein/e Arbeitnehmer/in innerhalb und außerhalb der Probezeiten kündigen kann.
-#### **1. Kündigungsfrist innerhalb der Probezeit**
-- **Für den Arbeitnehmer**: 2 Wochen.
-
-#### **2. Kündigungsfrist außerhalb der Probezeit**
-- **Für den Arbeitnehmer**:
-  - **Unter 2 Jahren Betriebszugehörigkeit**: 4 Wochen zum Monatsende.
-  - **Ab 2 Jahren Betriebszugehörigkeit**: 1 Monat zum Monatsende.
-  - **Ab 5 Jahren**: 2 Monate zum Monatsende.
-  - **Ab 8 Jahren**: 3 Monate zum Monatsende.
