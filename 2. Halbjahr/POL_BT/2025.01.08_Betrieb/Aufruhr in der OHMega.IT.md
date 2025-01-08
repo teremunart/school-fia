@@ -15,7 +15,7 @@ https://www.rbb24.de/wirtschaft/beitrag/2024/12/oder-spree-gruenheide-tesla-ig-m
 https://www.automobil-produktion.de/management/volkswagen-drohen-werksschliessungen-und-entlassungen-postID-306652-539.html
 
 ## Formulieren Sie gemeinsam eine kurze Rückmeldung (unter Einbezug Ihres Vorwissens) an Till Bergmann über die Kommentarfunktion im Padlet.
-> Hallo Till,<br>ich sehe das genauso. Wir können einen Betriebsrat gründen, da wir so mehr Mitspracherecht bei solchen Themen haben.
+> Hallo Till,<br>ich sehe das genauso. Es wäre wichtig, dass wir bei diesen Themen mitreden dürfen. Wir sollten die Wege einleiten einen Betriebsrat zu gründen, da wir so mehr Mitspracherecht bei solchen Themen, wie bei der Überwachung und der Arbeitszeitregelungen hätten. Wir sollten uns treffen und unser Vorgehen besprechen.
 
 ## Die Gründung eines Betriebsrates: Nur Nachteile für den Arbeitgeber?
 > a)<br>
