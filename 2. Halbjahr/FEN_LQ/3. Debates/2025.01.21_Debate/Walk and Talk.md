@@ -36,19 +36,24 @@ I have been tasked to advising the company of the use of AI in recruitment, and 
 
 ---
 # Ethics and AI
-1.	Four suggestions to support the development of ethical AI
-    - Define ethical standards to outline what counts as something ethical
-    - Risk mitigation tools like LIME/SHAP for transparency
-    - Identification of where it falls short of ethical goals
+1.	Four suggestions to support the development of ethical AI<br>
+    - Define ethical standards to outline what counts as something ethical<br>
+    - Risk mitigation tools like LIME/SHAP for transparency<br>
+    - Identification of where it falls short of ethical goals<br>
     - Address biased problems by understanding their source 
-2.	Two explanations for the challenges of implementing AI ethical risk mitigation strategies
-    - Ethical risks go beyond legal compliance's and requires good understanding
-    -Avoiding biased in datasets involves deep, case-specific work
-3.	Three reasons for assembling a senior-level working group for implementation
-    - It requires input from technologists, ethicists, legal experts, and business leaders
-    - The alignment of ethical goals with technological and operational capacities is important
-    - Addresses business needs, ethical standards, and compliance together.4.	Five demands that AI ethics place on organizations (5P)
-5.	Two ethical implications of using AI in HR (2P)
+2.	Two explanations for the challenges of implementing AI ethical risk mitigation strategies<br>
+    - Ethical risks go beyond legal compliance's and requires good understanding<br>
+    - Avoiding biased in datasets involves deep, case-specific work
+3.	Three reasons for assembling a senior-level working group for implementation<br>
+    - It requires input from technologists, ethicists, legal experts, and business leaders<br>
+    - The alignment of ethical goals with technological and operational capacities is important<br>
+    - Addresses business needs, ethical standards, and compliance together.
+4.	Five demands that AI ethics place on organizations<br>
+    - Implement due diligence and ethical audits for AI systems.<br>
+    - Develop frameworks for explainability and decision-making.<br>
+    - Ensure fairness in AI outputs by addressing systemic data biases.<br>
+    - Match ethical AI practices with organizational goals.<br>
+    - Prepare for scrutiny from regulators and customers.<br>5.	Two ethical implications of using AI in HR (2P)
 6.	Two practical implications of using AI in HR (2P)
 7.	Two suggestions for AI training in the context of HR (2P)
 
