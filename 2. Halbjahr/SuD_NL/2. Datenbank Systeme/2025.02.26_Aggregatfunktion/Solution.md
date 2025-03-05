@@ -106,10 +106,29 @@ Wie viele männliche und wie viele weibliche Mitarbeiter hat die Firma?
 #### Wie viele Tage liegen zwischen dem 01.02.1980 und 15.05.1985? (Funktioniert nicht in SQLite)
 > EMPTY
 #### Der Mitarbeiter 'Franzke’mit der Personalnummer 5 will wissen, wie viele Tage er nach dem Mitarbeiter Eifer mit der Personalnummer 1 in das Unternehmen eingetreten ist. (Funktioniert nicht in SQLite)
-> EMPTY
-15. Wie oft hat sich Frau Zeiss im Jahr 2021 ein Auto ausgeliehen?
-15.	Welche Mitarbeiter wurden im März 1984 eingestellt?
+> EMPTY 
 
+#### Wie oft hat sich Frau Zeiss im Jahr 2021 ein Auto ausgeliehen?
+````sqlite
+    SELECT COUNT(*)
+    FROM Mietvorgang
+    WHERE Mitarbeiter_ID = (
+        SELECT Persnr 
+        FROM t_Personaldaten 
+        WHERE PName = 'Zeiss'
+    )
+    
+    -- 0
+````
+
+#### Welche Mitarbeiter wurden im März 1984 eingestellt?
+````sqlite
+    SELECT PVorname, PName 
+    FROM t_Personaldaten
+    WHERE Eintritt BETWEEN '1984-03-01' AND '1984-03-31'
+    
+    -- None
+````
 		
 
 
