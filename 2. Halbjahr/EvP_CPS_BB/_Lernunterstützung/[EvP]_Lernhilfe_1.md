@@ -50,7 +50,7 @@ cp (copy): Kopiert die Datei alle-sequenzen.sh in den Ordner OHMegascripts, wobe
 
 ---
 #### Kann dherzog die Datei alle-sequenzen.sh ausführen? 
-![img_1.png](img_1.png)![img_2.png](img_2.png)
+![img_1.png](EvP_Lernhilfe_1/img_1.png)![img_2.png](EvP_Lernhilfe_1/img_2.png)
 `./alle-sequenzen.sh` <br>
 Der Besitzer (dherzog) hat kein Ausführungsrecht für die Datei, auch wenn die Gruppenzugehörigkeit event das 
 Ausführungsrecht hätte. Besitzerrechte haben Vorrang, und ohne das x-Bit für den Besitzer 
