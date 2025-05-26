@@ -1,0 +1,2 @@
+- es gibt 13 DNS server welche alle Lokale DNS Server kennen?
+- 

@@ -31,5 +31,12 @@
         </library>
       </libraries>
     </data-source>
+    <data-source source="LOCAL" name="Lernhilfe 2" uuid="dee2aef3-8ac4-438c-9caf-c2b00760a2f7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:lernhilfe.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
